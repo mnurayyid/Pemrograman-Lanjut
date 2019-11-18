@@ -42,6 +42,6 @@ int main(int argc, char *argv[]) {
 	}
 	}while(loop==1);
 	printf("Terima Kasih Sudah menggunakan Layanan Kami");
-	
+		
 	return 0;
 }
